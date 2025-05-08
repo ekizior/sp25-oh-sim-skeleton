@@ -1,4 +1,4 @@
-# CS 61B Spring 2025 OH Simulation
+# CS 61B Fall 2025 OH Simulation
 
 Hi! Welcome to the CS 61B OH simulation! During this stage, we want to see how you help students in a 1-1 office hours style situation.
 
